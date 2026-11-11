@@ -1,0 +1,12 @@
+{
+  "version": "v0.5",
+  "status": "USER_AUTHORIZED_PUBLIC_TEST_PRERELEASE",
+  "source_iso_sha256": "3a4d63713880dfb67ade00b6a912ac4975847cec06b1ab341b65963f328e1c93",
+  "target_iso_sha256": "9186495574ab17032b27927c485a4377e29626bdb7b824e88ed781b1d2ab91b4",
+  "patch_sha256": "392826a73e941e5df1641cf104b6e9ece148683a4a9d16094da2c2a5488b4eda",
+  "changed_blocks": 302,
+  "patch_size": 18178001,
+  "runtime": "User reported early-game Korean display normal; full playthrough deferred by user",
+  "application_roundtrip": "PASS: bundled Windows PowerShell applicator reproduced exact target ISO SHA-256",
+  "publication_authority": "User requested GitHub v0.5 distribution and explicitly deferred gameplay review"
+}
