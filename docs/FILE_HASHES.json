@@ -1,0 +1,23 @@
+{
+  "version": "v0.5",
+  "source_language": "日本語 / 일본어",
+  "scope": "지원 일본판 NPJH50503 원본 ISO 전체와 v0.5 결과 ISO 전체",
+  "post_folder": "01_Lord_of_Apocalypse",
+  "rows": [
+    {
+      "path": "ISO 전체",
+      "source": {
+        "crc32": "A0EA68DD",
+        "md5": "88D9822763842FF4AE543B6EF773D309",
+        "sha256": "3a4d63713880dfb67ade00b6a912ac4975847cec06b1ab341b65963f328e1c93",
+        "bytes": 1068498944
+      },
+      "target": {
+        "crc32": "0DF10C4B",
+        "md5": "AFFD129B21363AEEA59338B79CEB16E5",
+        "sha256": "9186495574ab17032b27927c485a4377e29626bdb7b824e88ed781b1d2ab91b4",
+        "bytes": 1068498944
+      }
+    }
+  ]
+}
